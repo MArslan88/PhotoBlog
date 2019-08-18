@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Photo Blog</string>
+    <string name="pass_hint">Password...</string>
+    <string name="email_hint">Your Email...</string>
+    <string name="login_logo_desc">Logo login Page</string>
+    <string name="login_btn_txt">Login To Account</string>
+    <string name="login_reg_btn_txt">Need a new Account</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_text">Account Setting</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="reg_btn_text">Create new Account</string>
+    <string name="reg_already_btn_text">Already have an account</string>
+    <string name="reg_confirm_pass_text">Confirm Password</string>
+    <string name="setup_name_hint">Your Name</string>
+    <string name="setup_btn_name_text">Save Account Settings</string>
+    <string name="post_desc_hint">Add Description...</string>
+    <string name="new_post_btn_hint">Post Blog</string>
+</resources>
